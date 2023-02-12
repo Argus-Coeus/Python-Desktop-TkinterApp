@@ -1,2 +1,2 @@
 # Python-Desktop-TkinterApp
-A Place Tkinter Desktop App 
+A Place of Tkinter Desktop App 
